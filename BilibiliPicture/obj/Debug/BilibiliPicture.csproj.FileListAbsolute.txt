@@ -1,0 +1,12 @@
+G:\vspro\bilibili\Bilibili\BilibiliPicture\bin\Debug\BilibiliPicture.exe.config
+G:\vspro\bilibili\Bilibili\BilibiliPicture\bin\Debug\BilibiliPicture.exe
+G:\vspro\bilibili\Bilibili\BilibiliPicture\bin\Debug\BilibiliPicture.pdb
+G:\vspro\bilibili\Bilibili\BilibiliPicture\obj\Debug\BilibiliPicture.csprojResolveAssemblyReference.cache
+G:\vspro\bilibili\Bilibili\BilibiliPicture\obj\Debug\BilibiliPicture.Form1.resources
+G:\vspro\bilibili\Bilibili\BilibiliPicture\obj\Debug\BilibiliPicture.Properties.Resources.resources
+G:\vspro\bilibili\Bilibili\BilibiliPicture\obj\Debug\BilibiliPicture.csproj.GenerateResource.Cache
+G:\vspro\bilibili\Bilibili\BilibiliPicture\obj\Debug\BilibiliPicture.csproj.CoreCompileInputs.cache
+G:\vspro\bilibili\Bilibili\BilibiliPicture\obj\Debug\BilibiliPicture.exe
+G:\vspro\bilibili\Bilibili\BilibiliPicture\obj\Debug\BilibiliPicture.pdb
+G:\vspro\bilibili\Bilibili\BilibiliPicture\bin\Debug\MyClassLibrary.dll
+G:\vspro\bilibili\Bilibili\BilibiliPicture\bin\Debug\MyClassLibrary.pdb
